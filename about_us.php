@@ -43,7 +43,7 @@
         <div class="container-fluid overflow-hidden py-5">
             <div class="container py-5">
                 <div class="row g-5">
-                    <div class="col-xl-5 wow fadeInLeft" data-wow-delay="0.1s">
+                    <div class="col-xl-5 wow fadeInLeft" data-wGITow-delay="0.1s">
                         <div class="bg-light rounded">
                             <img src="images/3.jpg" class="img-fluid w-100" style="margin-bottom: -7px;" alt="Image">
                            <!--  <img src="img/about-2.png" class="img-fluid w-100" style="margin-bottom: -7px;" alt="Image">
